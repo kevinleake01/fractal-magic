@@ -1,0 +1,10 @@
+----- Mandelbrot Videos -----
+
+This uses FFmpeg's Mandelbrot feature, which zooms in on a mandelbrot set.
+
+For those running Linux, the commands are:
+
+./ffmpeg-mandelbrot-ntsc.sh  --- Generate NTSC version
+./ffmpeg-mandelbrot-pal.sh   --- Generate PAL version
+
+
